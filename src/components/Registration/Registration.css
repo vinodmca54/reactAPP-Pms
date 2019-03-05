@@ -1,0 +1,14 @@
+.card {
+  top: 35px;
+}
+
+.modal-content {
+  overflow: scroll;
+  /* height:619px !important */
+}
+.modal-header .close  {
+  padding: unset;
+}
+.modal-header{
+  background: #8bc34a
+}
